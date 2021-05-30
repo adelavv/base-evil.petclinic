@@ -22,7 +22,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * PetClinic Spring Boot Application.
  *
- * @author Dave Syer
+ * @author Adela
  *
  */
 @SpringBootApplication(proxyBeanMethods = false)
